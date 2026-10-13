@@ -1,3 +1,5 @@
+package UNIDAD1;
+
 public class mentiroso {
     /**
      * El programa hace una ronda del juego del mentiroso
